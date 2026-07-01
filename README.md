@@ -11,6 +11,10 @@
 
 <div align="center">
 
+<div align="center">
+
+<div style="display:inline-block; text-align:left">
+
 ```bash
 $ Mayyer@github:~$ system-check
 
@@ -18,14 +22,14 @@ $ Mayyer@github:~$ system-check
 │        SYSTEM STATUS         │
 ╰──────────────────────────────╯
 
-▸ Backend     : ████████░░ 80%
-▸ Database    : ██████░░░░ 60%
-▸ Frontend    : ████░░░░░░ 40%
-▸ Game Dev    : ██░░░░░░░░ 20%
+Backend   ████████░░ 80%
+Database  ██████░░░░ 60%
+Frontend  ████░░░░░░ 40%
+Game Dev  ██░░░░░░░░ 20%
 
-──────────────────────────────
+$ _
 ```
-</div>
+</div> 
 
 <br/>
 
