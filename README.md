@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Moises Mayyer</h1>
 
-<!--
-**MoisesMayyer/MoisesMayyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Dev+Full+Stack;Python+%7C+SQL+%7C+Game+Dev;Building+real+projects&center=true&width=520&height=80">
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoisesMayyer&theme=midnight-purple&hide_border=true" />
+</p>
+
+<div align="center">
+
+```bash
+$ Mayyer@github:~$ system-check
+
+╭──────────────────────────────╮
+│        SYSTEM STATUS         │
+╰──────────────────────────────╯
+
+▸ Backend     : ████████░░ 80%
+▸ Database    : ██████░░░░ 60%
+▸ Frontend    : ████░░░░░░ 40%
+▸ Game Dev    : ██░░░░░░░░ 20%
+
+──────────────────────────────
+```
+</div>
+
+<br/>
+
+# Linguagens
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,postgres,mysql" /> </p>
+
+# Ferramentas
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,godot,unity" /> </p>
