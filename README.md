@@ -8,11 +8,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MoisesMayyer&color=7F3FBF&style=flat&label=Visualiza%C3%A7%C3%B5es"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MoisesMayyer?label=Seguidores&style=flat&color=7F3FBF"/>
+    <img src="https://img.shields.io/github/followers/MoisesMayyer?label=Seguidores&style=flat&color=7F3FBF"/>
   <img src="https://img.shields.io/badge/Status-Estudando%20Backend-7F3FBF?style=flat"/>
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MoisesMayyer&theme=midnight-purple&hide_border=true" width="100%"/>
