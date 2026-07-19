@@ -12,30 +12,6 @@
   <img src="https://img.shields.io/badge/Status-Estudando%20Backend-7F3FBF?style=flat"/>
 </p>
 
-<div align="center">
-
-<details>
-<summary><strong>📊 GitHub Stats</strong></summary>
-<br>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MoisesMayyer&theme=midnight-purple&hide_border=true" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=MoisesMayyer&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MoisesMayyer&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoisesMayyer&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoisesMayyer&theme=github_dark&utcOffset=-3" />
-</p>
-
-</details>
-
-</div>
-
----
-
 ## About Me
 ```json
 {
@@ -70,6 +46,29 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pycharm,vscode,git,github,linux,arch,windows,postman,docker"/>
 </p>
+
+---
+<div align="center">
+
+<details>
+<summary><strong>📊 GitHub Stats</strong></summary>
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MoisesMayyer&theme=midnight-purple&hide_border=true" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=MoisesMayyer&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MoisesMayyer&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoisesMayyer&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoisesMayyer&theme=github_dark&utcOffset=-3" />
+</p>
+
+</details>
+
+</div>
 
 ---
 
