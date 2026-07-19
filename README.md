@@ -15,11 +15,10 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MoisesMayyer&theme=midnight-purple&hide_border=true"/>
-   <img src="https://github-stats-extended.vercel.app/api?username=MoisesMayyer&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=MoisesMayyer&theme=midnight-purple&hide_border=true" width="100%"/>
 </p>
-
 <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=MoisesMayyer&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="49%"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MoisesMayyer&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/>
 </p>
 
