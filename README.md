@@ -1,15 +1,12 @@
-<h1 align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=220&section=header&text=Moises%20Mayyer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+SQL+%7C+APIs"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=6D28D9&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+SQL+%7C+APIs"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoisesMayyer&color=7F3FBF&style=flat&label=Visualiza%C3%A7%C3%B5es"/>
-  <img src="https://img.shields.io/github/followers/MoisesMayyer?label=Seguidores&style=flat&color=7F3FBF"/>
-  <img src="https://img.shields.io/badge/Status-Estudando%20Backend-7F3FBF?style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=MoisesMayyer&color=6D28D9&style=flat&label=Visualiza%C3%A7%C3%B5es"/>
+  <img src="https://img.shields.io/github/followers/MoisesMayyer?label=Seguidores&style=flat&color=6D28D9"/>
+  <img src="https://img.shields.io/badge/Status-Estudando%20Backend-6D28D9?style=flat"/>
 </p>
 
 ## About Me
@@ -92,6 +89,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesMayyer&theme=react-dark&hide_border=true&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=ffffff"/>
 </p>
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=7F3FBF"/>
