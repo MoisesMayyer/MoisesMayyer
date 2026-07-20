@@ -75,7 +75,7 @@
 ## Repositórios Principais
 <p align="center">
   <a href="https://github.com/MoisesMayyer/controle-de-gastos">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=MoisesMayyer&repo=controle-de-gastos&theme=midnight-purple&hide_border=true" width="48%"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=MoisesMayyer&repo=Sistema-de-Controle-Financeiro&theme=midnight-purple&hide_border=true" width="48%"/>
   </a>
   <a href="https://github.com/MoisesMayyer/ConversorDeUnidades">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=MoisesMayyer&repo=ConversorDeUnidades&theme=midnight-purple&hide_border=true" width="48%"/>
