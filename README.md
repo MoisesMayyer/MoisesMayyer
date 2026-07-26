@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MoisesMayyer&color=6D28D9&style=flat&label=Visualiza%C3%A7%C3%B5es"/>
-  <img src="https://img.shields.io/github/followers/MoisesMayyer?label=Seguidores&style=flat&color=6D28D9"/>
   <img src="https://img.shields.io/badge/Status-Estudando%20Backend-6D28D9?style=flat"/>
 </p>
 
