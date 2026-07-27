@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=6D28D9&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+SQL+%7C+APIs"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MoisesMayyer&color=6D28D9&style=flat&label=Visualiza%C3%A7%C3%B5es"/>
+    <img src="https://img.shields.io/github/followers/MoisesMayyer?label=Seguidores&style=flat&color=6D28D9"/>
+  <img src="https://img.shields.io/badge/Status-Estudando%20Backend-6D28D9?style=flat"/>
+</p>
 
 
 ## About Me
