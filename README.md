@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=6D28D9&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+SQL+%7C+APIs"/>
 </p>
@@ -45,29 +44,9 @@
 </p>
 
 ---
-<div align="center">
 
-<details>
-<summary><strong>📊 GitHub Stats</strong></summary>
-<br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MoisesMayyer&theme=midnight-purple&hide_border=true" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=MoisesMayyer&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MoisesMayyer&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoisesMayyer&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoisesMayyer&theme=github_dark&utcOffset=-3" />
-</p>
 
-</details>
-
-</div>
-
----
 
 ## Repositórios Principais
 <p align="center">
