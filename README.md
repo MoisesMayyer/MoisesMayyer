@@ -16,14 +16,15 @@
   "role": "Backend Developer",
   "country": "Brazil",
   "techStack": {
-    "backend": ["Python", "REST APIs"],
+    "backend": ["Python", "REST APIs, "FAST API"],
     "database": ["PostgreSQL", "MySQL"],
     "frontend": ["HTML", "CSS", "JavaScript"]
   },
   "currentlyLearning": [
     "Software Architecture",
     "Clean Code",
-    "REST APIs"
+    "REST APIs",
+    "FAST API"
   ],
   "goal": "Become a Full Stack Developer"
 }
