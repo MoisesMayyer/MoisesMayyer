@@ -16,7 +16,7 @@
   "role": "Backend Developer",
   "country": "Brazil",
   "techStack": {
-    "backend": ["Python", "REST APIs, "FAST API"],
+    "backend": ["Python", "REST APIs", "FAST API"],
     "database": ["PostgreSQL", "MySQL"],
     "frontend": ["HTML", "CSS", "JavaScript"]
   },
