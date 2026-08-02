@@ -31,23 +31,19 @@
 ```
 
 ## Linguagens
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css"/>
-</p>
 
-## Banco de Dados
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase"/>
 </p>
 
-## Ferramentas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pycharm,vscode,git,github,linux,arch,windows,postman,docker"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css"/>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode,git,github,linux,windows,postman,docker"/>
+</p>
 ---
-
-
 
 
 ## Repositórios Principais
