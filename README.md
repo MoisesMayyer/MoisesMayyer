@@ -1,68 +1,31 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=6D28D9&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+SQL+%7C+APIs"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=14532D&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+SQL+%7C+APIs"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoisesMayyer&color=6D28D9&style=flat&label=Visualiza%C3%A7%C3%B5es"/>
-    <img src="https://img.shields.io/github/followers/MoisesMayyer?label=Seguidores&style=flat&color=6D28D9"/>
-  <img src="https://img.shields.io/badge/Status-Estudando%20Backend-6D28D9?style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=MoisesMayyer&color=14532D&style=flat&label=Visualiza%C3%A7%C3%B5es"/>
+  <img src="https://img.shields.io/github/followers/MoisesMayyer?label=Seguidores&style=flat&color=14532D"/>
+  <img src="https://img.shields.io/badge/Status-Estudando%20Backend-14532D?style=flat"/>
 </p>
-
 
 ## About Me
-```json
-{
-  "user": "MoisesMayyer",
-  "role": "Backend Developer",
-  "country": "Brazil",
-  "techStack": {
-    "backend": ["Python", "REST APIs", "FAST API"],
-    "database": ["PostgreSQL", "MySQL"],
-    "frontend": ["HTML", "CSS", "JavaScript"]
-  },
-  "currentlyLearning": [
-    "Software Architecture",
-    "Clean Code",
-    "REST APIs",
-    "FAST API"
-  ],
-  "goal": "Become a Full Stack Developer"
-}
-```
 
-## Linguagens
+👋 Hi, I'm **Mayyer**, 18 years old.
+
+I'm from southern Brazil 🇧🇷 and I started programming in **2026** as a self-taught developer. I'm currently deepening my knowledge of **Backend Development**, while also learning more about software architecture and Clean Code.
+
+I enjoy studying **Backend Development**, but I'm also interested in **Full Stack Development** and **Game Development**. I prefer learning by **writing code and building projects** rather than focusing only on theory.
+
+💻 My next goal is to get into a **Computer Science program** and become a great developer.
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,sqlite,supabase,html,css,js,git,github,vscode,postman,docker,linux" />
 </p>
+
+## GitHub
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoisesMayyer&theme=github_dark" />
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pycharm,vscode,git,github,linux,windows,postman,docker"/>
-</p>
----
-
-
-## Repositórios Principais
-<p align="center">
-  <a href="https://github.com/MoisesMayyer/controle-de-gastos">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=MoisesMayyer&repo=Sistema-de-Controle-Financeiro&theme=midnight-purple&hide_border=true" width="48%"/>
-  </a>
-  <a href="https://github.com/MoisesMayyer/ConversorDeUnidades">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=MoisesMayyer&repo=ConversorDeUnidades&theme=midnight-purple&hide_border=true" width="48%"/>
-  </a>
-</p>
-
----
-
-## Contribuições
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoisesMayyer&theme=github_dark"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesMayyer&theme=react-dark&hide_border=true&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=ffffff"/>
-</p>
-
