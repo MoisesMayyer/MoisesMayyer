@@ -21,7 +21,7 @@ I enjoy studying **Backend Development**, but I'm also interested in **Full Stac
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,sqlite,supabase,html,css,js,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,sqlite,supabase,git,github,vscode,linux" />
 </p>
 
 ## GitHub
