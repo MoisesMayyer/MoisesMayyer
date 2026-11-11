@@ -57,8 +57,8 @@
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoisesMayyer&theme=github_dark&bg_color=000000&border_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="MoisesMayyer's profile summary" />
 </p>
 
-<p align="left">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoisesMayyer&theme=github_dark&bg_color=000000&border_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="MoisesMayyer's GitHub stats" />
+<p align="center">
+  <img width="32.9%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoisesMayyer&theme=github_dark&bg_color=000000&border_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="MoisesMayyer's GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=MoisesMayyer&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="MoisesMayyer's contribution streak" />
 </p>
 
