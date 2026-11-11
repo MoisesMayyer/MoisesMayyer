@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=14532D&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+SQL+%7C+APIs"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00ced1&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+SQL+%7C+APIs"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoisesMayyer&color=14532D&style=flat&label=Visualiza%C3%A7%C3%B5es"/>
-  <img src="https://img.shields.io/github/followers/MoisesMayyer?label=Seguidores&style=flat&color=14532D"/>
+  <img src="https://komarev.com/ghpvc/?username=MoisesMayyer&color=00ced1&style=flat&label=Visualiza%C3%A7%C3%B5es"/>
+  <img src="https://img.shields.io/github/followers/MoisesMayyer?label=Seguidores&style=flat&color=00ced1"/>
 
 </p>
 
