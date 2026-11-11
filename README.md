@@ -62,7 +62,7 @@
   <img width="49%" src="https://streak-stats.demolab.com/?user=MoisesMayyer&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="MoisesMayyer's contribution streak" />
 </p>
 
-## 💌 Get in touch
+## ✉️​ Get in touch
 
 <p align="left">
   <a href="mailto:moisesmayer769@gmail.com" title="Gmail">
