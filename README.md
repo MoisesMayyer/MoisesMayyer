@@ -65,7 +65,7 @@
 ## ✉️​ Get in touch
 
 <p align="left">
-  <a href="mailto:moisesmayer769@gmail.com" title="Gmail">
+  <a href="mailto:mayyerdev@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/mois%C3%A9s-mayer/" title="LinkedIn">
