@@ -9,24 +9,28 @@
   I've been studying self-taught since 2026 and I learn by building real projects.
 </p>
 
-![Profile view counter](https://komarev.com/ghpvc/?username=MoisesMayyer&label=Visitors&color=000000&style=for-the-badge)
 
 ## About me
+- 👋 I'm 18 years old, based in southern Brazil.
 
-- 👋 I'm 18 years old and I live in southern Brazil.
-- 🎓 I've been a self-taught programming student since 2026.
-- 💻 I focus on **Backend development with Python**.
-- 🐍 I work with Python, FastAPI, SQLAlchemy and PostgreSQL.
-- 🧪 I practice automated testing with pytest and migrations with Alembic.
-- 🚀 Building personal projects and improving my skills.
-- 🌱 Learning more about software architecture, Clean Code and Docker.
-- 🎯 Goal: get into a Computer Science program and grow as a Backend developer.
+- 🎓 Self-taught developer, studying programming since 2026.
+
+- 💻 Focused on Backend Development with Python and FastAPI.
+
+- 🛠️ Building REST APIs with PostgreSQL, SQLAlchemy and Alembic.
+
+- 🧪 Experienced with automated testing using pytest, API authentication and deployment.
+
+- 🌱 Currently learning Software Architecture, Docker and Java.
+
+- 🎯 Aspiring Computer Science student, working toward a career in software engineering.
 
 ## My Skills
 
 **Backend & Data**
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-000000?style=for-the-badge)
@@ -34,21 +38,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-000000?style=for-the-badge&logo=pytest&logoColor=white)
 
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white)
-
-**Other languages**
-
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-
 **Development tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ## GitHub Stats
