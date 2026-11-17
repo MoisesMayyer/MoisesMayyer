@@ -1,4 +1,4 @@
-<img src="assets/eva%20loudsonic%20GIF.gif" alt="Illustration of a computer" width="232" align="right" />
+<img src="assets/eva%20loudsonic%20GIF.gif" alt="Illustration of a computer" width="220" align="right" />
 
 ### Hi, my name is Moises Mayer! 👋
 
